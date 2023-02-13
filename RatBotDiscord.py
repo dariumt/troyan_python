@@ -1,6 +1,4 @@
-# -*- coding: ak'security -*-
-#
-
+# coded by @dariumt
 import winreg
 import ctypes
 import sys
